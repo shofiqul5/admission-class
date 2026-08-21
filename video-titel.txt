@@ -1,1 +1,2 @@
-1 : Hallo world
+1 : Admission orientation class
+2 : English class E-01 Part-01
