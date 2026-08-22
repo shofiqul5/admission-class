@@ -20,3 +20,26 @@
 20 : English live class 1
 21 : English live class 2
 22 : English live class 3
+
+23 : Bangla 1.1 class
+24 : Bangla 1.2 class
+25 : Bangla 2.1 class
+26 : Bangla 2.2 class
+27 : Bangla 3.1 class
+28 : Bangla 3.2 class
+29 : Bangla 4.1 class
+30 : Bangla 4.2 class
+31 : Bangla 5.1 class
+32 : Bangla 5.2 class
+33 : Bangla 6.1 class
+34 : Bangla 6.2 class
+35 : Bangla 7.1 class
+36 : Bangla 7.2 class
+37 : Bangla 8.1 + 8.2 class
+38 : Bangla 9.1 + 9.2 class
+39 : Bangla 10.1 + 10.2 class
+40 : Bangla 11.1 + 11.2 class
+41 : Bangla 12.1 + 12.2 class
+42 : Bangla 13.1 + 13.2 class
+43 : Bangla Special 1.1 class
+44 : Bangla Special 1.2 class
